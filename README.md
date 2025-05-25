@@ -1,6 +1,9 @@
 # 👩‍💻 Hi, I'm Esha Balaji!
 
-I'm a Computer Science engineering student at **BNM Institute of Technology**, currently in my 6th semester with a strong academic record (CGPA: 9.3). I’m passionate about software development, AI, and cloud-based solutions. I love solving real-world problems with code and enjoy exploring both frontend and backend technologies.
+💻 Passionate about coding| 🚀 Exploring Java, databases, and modern tech stacks
+🎓 Student trainee with hands-on training in IT fundamentals, RDBMS, Java, and cloud technologies
+🌱 Continuously learning and building projects to grow as a developer
+
 
 ---
 
