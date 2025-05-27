@@ -48,6 +48,4 @@
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration.
