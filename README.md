@@ -45,6 +45,7 @@
 - 📧 balajiesha2004@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/esha-balaji)  
 - 💻 GitHub: [eshabalaji](https://github.com/eshabalaji)
+- Portfolio: https://eshabalaji.github.io/Portfolio/index.html
 
 ---
 
