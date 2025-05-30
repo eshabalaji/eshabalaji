@@ -13,7 +13,7 @@
 - 🔐 **Multi Layer Encryption and Decryption**: A secure AWS-based file encryption system with ReactJS frontend and Lambda backend.
 - ⌚ **Smart Watch Data Analyser**: Streamlit app in Python to detect sleep apnea and SOS alerts using smartwatch data.
 - 🌱 **Plant Health Detector**: Python tool for detecting diseases in tomato and potato plant leaves.
-- 📊 **AlgoView**: Visualizer for understanding sorting algorithms using Python.
+- 📊 **AlgoView**: Visualizer for understanding sorting algorithms.
 - 🌐 **Volunteering Portal**: Web app using HTML, CSS, JS, and Firebase for event and user management.
 
 ---
@@ -32,7 +32,6 @@
 ### 📚 Core Knowledge
 - Data Structures & Algorithms
 - Software Engineering
-- DevOps (CI/CD)
 - Cloud Computing (AWS, Azure, GCP)
 - AI & GenAI
 - Design & Analysis of Algorithms
